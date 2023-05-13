@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hassanAhmed310
-- 👀 I’m interested in ...Dart&Flutter
-- 🌱 I’m currently learning ...App development
-- 💞️ I’m looking to collaborate on ...creating cross platform apps
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ... Software engineering
+- 💞️ I’m looking to collaborate on ...creating cross platform apps and web applications
 - 📫 How to reach me ...
 
 <!---
