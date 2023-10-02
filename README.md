@@ -14,19 +14,20 @@
 - 🏢 I'm a Software Engineer with experience in web and apps development. 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, TypeScript, and Angular, or anything related to software development.
-- 👨‍💻 Check out my portfolio at <a href="https://drive.google.com/file/d/1qyV6xuXJkBaSgdmkcvRqpcHIxXcyE9sZ/view?usp=sharing">My-CV-On-GoogleDrive</a> to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at <a href="https://drive.google.com/file/d/1qyV6xuXJkBaSgdmkcvRqpcHIxXcyE9sZ/view?usp=sharing">My-CV-On-Google Drive</a> to see some of the projects I've worked on.
 
 
 ### Connect with Me :
-
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassanahmed310" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/HasSan_Ahmed" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=HackerRank&logoColor=green"/></a>
+<a href="https://leetcode.com/HassanAhmed/" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=LeetCode&logoColor=yellow"/></a>
 ### 🛠 &nbsp;Tech Stack
+![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
