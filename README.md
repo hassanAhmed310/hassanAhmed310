@@ -21,27 +21,10 @@
 <a href="https://www.linkedin.com/in/hassanahmed310" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/HasSan_Ahmed" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=HackerRank&logoColor=green"/></a>
 <a href="https://leetcode.com/HassanAhmed/" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Ahmed-0077B5?style=for-the-badge&logo=LeetCode&logoColor=yellow"/></a>
+
+
 ### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,r,git,idea,vscode,angular,nodejs,spring)](https://skillicons.dev)
 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
